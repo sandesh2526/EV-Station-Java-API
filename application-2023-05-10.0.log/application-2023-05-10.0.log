@@ -1,0 +1,28 @@
+17:41:49.574 [main] INFO  com.ev_station.evstation.EvStationApplication - Starting EvStationApplication using Java 11.0.9 on DESKTOP-JL8SMDL with PID 18312 (C:\Users\sande\OneDrive\Documents\javaPrograms\ev-station\target\classes started by sande in C:\Users\sande\OneDrive\Documents\javaPrograms)
+17:41:49.593 [main] INFO  com.ev_station.evstation.EvStationApplication - No active profile set, falling back to 1 default profile: "default"
+17:41:54.558 [main] INFO  com.ev_station.evstation.EvStationApplication - Started EvStationApplication in 5.554 seconds (JVM running for 6.428)
+17:44:52.766 [http-nio-8080-exec-4] INFO  com.ev_station.evstation.Service.StationService - Request for list of stations
+17:44:53.053 [http-nio-8080-exec-3] INFO  com.ev_station.evstation.Service.StationService - Request for list of stations
+17:44:53.378 [http-nio-8080-exec-7] INFO  com.ev_station.evstation.Service.StationService - Request for list of stations
+17:51:03.354 [main] INFO  com.ev_station.evstation.EvStationApplication - Starting EvStationApplication using Java 11.0.9 on DESKTOP-JL8SMDL with PID 15824 (C:\Users\sande\OneDrive\Documents\javaPrograms\ev-station\target\classes started by sande in C:\Users\sande\OneDrive\Documents\javaPrograms\ev-station)
+17:51:03.358 [main] INFO  com.ev_station.evstation.EvStationApplication - No active profile set, falling back to 1 default profile: "default"
+17:51:10.083 [main] INFO  com.ev_station.evstation.EvStationApplication - Started EvStationApplication in 7.212 seconds (JVM running for 8.813)
+17:51:31.845 [http-nio-8080-exec-4] INFO  com.ev_station.evstation.Service.StationService - Request for list of stations
+17:55:58.062 [main] INFO  com.ev_station.evstation.EvStationApplication - Starting EvStationApplication using Java 11.0.9 on DESKTOP-JL8SMDL with PID 20268 (C:\Users\sande\OneDrive\Documents\javaPrograms\ev-station\target\classes started by sande in C:\Users\sande\OneDrive\Documents\javaPrograms\ev-station)
+17:55:58.068 [main] INFO  com.ev_station.evstation.EvStationApplication - No active profile set, falling back to 1 default profile: "default"
+17:56:02.812 [main] INFO  com.ev_station.evstation.EvStationApplication - Started EvStationApplication in 5.27 seconds (JVM running for 6.44)
+17:58:08.063 [main] INFO  com.ev_station.evstation.EvStationApplication - Starting EvStationApplication using Java 11.0.9 on DESKTOP-JL8SMDL with PID 20084 (C:\Users\sande\OneDrive\Documents\javaPrograms\ev-station\target\classes started by sande in C:\Users\sande\OneDrive\Documents\javaPrograms\ev-station)
+17:58:08.067 [main] INFO  com.ev_station.evstation.EvStationApplication - No active profile set, falling back to 1 default profile: "default"
+17:58:12.770 [main] INFO  com.ev_station.evstation.EvStationApplication - Started EvStationApplication in 5.094 seconds (JVM running for 6.268)
+18:00:13.295 [main] INFO  com.ev_station.evstation.EvStationApplication - Starting EvStationApplication using Java 11.0.9 on DESKTOP-JL8SMDL with PID 14588 (C:\Users\sande\OneDrive\Documents\javaPrograms\ev-station\target\classes started by sande in C:\Users\sande\OneDrive\Documents\javaPrograms\ev-station)
+18:00:13.299 [main] INFO  com.ev_station.evstation.EvStationApplication - No active profile set, falling back to 1 default profile: "default"
+18:00:17.526 [main] INFO  com.ev_station.evstation.EvStationApplication - Started EvStationApplication in 4.634 seconds (JVM running for 5.591)
+18:01:56.622 [http-nio-8080-exec-3] INFO  com.ev_station.evstation.Service.StationService - Request for list of stations
+19:12:00.601 [main] INFO  com.ev_station.evstation.EvStationApplication - Starting EvStationApplication using Java 11.0.9 on DESKTOP-JL8SMDL with PID 1676 (C:\Users\sande\OneDrive\Documents\javaPrograms\ev-station\target\classes started by sande in C:\Users\sande\OneDrive\Documents\javaPrograms\ev-station)
+19:12:00.605 [main] INFO  com.ev_station.evstation.EvStationApplication - No active profile set, falling back to 1 default profile: "default"
+19:12:17.409 [main] INFO  com.ev_station.evstation.EvStationApplication - Started EvStationApplication in 17.5 seconds (JVM running for 20.158)
+21:54:03.373 [main] INFO  com.ev_station.evstation.EvStationApplication - Starting EvStationApplication using Java 11.0.9 on DESKTOP-JL8SMDL with PID 11756 (C:\Users\sande\OneDrive\Documents\javaPrograms\ev-station\target\classes started by sande in C:\Users\sande\OneDrive\Documents\javaPrograms\ev-station)
+21:54:03.383 [main] INFO  com.ev_station.evstation.EvStationApplication - No active profile set, falling back to 1 default profile: "default"
+21:54:19.325 [main] INFO  com.ev_station.evstation.EvStationApplication - Started EvStationApplication in 17.071 seconds (JVM running for 20.445)
+22:29:45.561 [http-nio-8080-exec-3] INFO  com.ev_station.evstation.Service.StationService - Request for list of stations
+22:30:44.087 [http-nio-8080-exec-2] INFO  com.ev_station.evstation.Service.StationService - Request for list of stations
